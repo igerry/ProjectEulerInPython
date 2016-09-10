@@ -1,2 +1,2 @@
-# ProjectEulerInSwift
-ProjectEuler Solutions in Swift
+# ProjectEulerInPython
+ProjectEuler Solutions in Python
