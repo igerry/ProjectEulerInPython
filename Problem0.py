@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-class Problem7:
+class Problem0:
 	'''
 	'''
 
@@ -8,5 +8,5 @@ class Problem7:
 		return 0
 
 
-p = Problem7()
-print(p.solution())
+p = Problem0()
+print p.solution()
